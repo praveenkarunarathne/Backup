@@ -1,5 +1,12 @@
 clear
 echo -e "\n\t\t>>>>>            Starting Script            <<<<<\n"
+apt install gawk -y
+apt install grep -y
+apt install diffutils -y
+apt install sed -y
+apt install lsof -y
+apt install file -y
+apt install tar -y
 if [ -e ./fileslist.txt ]; then
 echo -e "\t\t>>>>>   'fileslist.txt' file is detected    <<<<<\n"
 else
