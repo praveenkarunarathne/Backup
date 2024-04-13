@@ -1,5 +1,11 @@
 clear
 echo -e "\n\t\t>>>>>         Starting Script           <<<<<\n\n\t\t>>>>>          Listing Files            <<<<<\n"
+apt install gawk -y
+apt install grep -y
+apt install sed -y
+apt install lsof -y
+apt install file -y
+apt install tar -y
 find ./ > files.txt
 echo ./fileslist.txt >> files.txt
 echo ./deletingfiles.txt >> files.txt
