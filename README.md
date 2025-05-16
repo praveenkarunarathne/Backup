@@ -91,22 +91,22 @@ git clone https://github.com/praveenkarunarathne/Backup && cd Backup && mv resto
 <details>
   <summary>Click for AMD Micro</summary>
 
-Ubuntu 18.04  :-  https://www.mediafire.com/file/es3xlz6zazhjyxc/AMD_Micro_Ubuntu_18.04.tar.gz/file
+Ubuntu 18.04  :-  https://github.com/praveenkarunarathne/Backup/releases/latest/download/AMD_Micro_Ubuntu_18.04.tar.gz
 
-Ubuntu 20.04  :-  https://www.mediafire.com/file/5zqute8mlwic1vf/AMD_Micro_Ubuntu_20.04.tar.gz/file
+Ubuntu 20.04  :-  https://github.com/praveenkarunarathne/Backup/releases/latest/download/AMD_Micro_Ubuntu_20.04.tar.gz
 
-Ubuntu 22.04  :-  https://www.mediafire.com/file/ry0zkfji4q5jh90/AMD_Micro_Ubuntu_22.04.tar.gz/file
+Ubuntu 22.04  :-  https://github.com/praveenkarunarathne/Backup/releases/latest/download/AMD_Micro_Ubuntu_22.04.tar.gz
 
 </details>
 
 <details>
   <summary>Click for Ampere</summary>
 
-Ubuntu 18.04  :-  https://www.mediafire.com/file/40wvza20w9ty8zk/Ampere_Ubuntu_18.04.tar.gz/file
+Ubuntu 18.04  :-  https://github.com/praveenkarunarathne/Backup/releases/latest/download/Ampere_Ubuntu_18.04.tar.gz
 
-Ubuntu 20.04  :-  https://www.mediafire.com/file/w598oyd40c3ueta/Ampere_Ubuntu_20.04.tar.gz/file
+Ubuntu 20.04  :-  https://github.com/praveenkarunarathne/Backup/releases/latest/download/Ampere_Ubuntu_20.04.tar.gz
 
-Ubuntu 22.04  :-  https://www.mediafire.com/file/0js8wn9zhlc1rdf/Ampere_Ubuntu_22.04.tar.gz/file
+Ubuntu 22.04  :-  https://github.com/praveenkarunarathne/Backup/releases/latest/download/Ampere_Ubuntu_22.04.tar.gz
 
 </details>
 
